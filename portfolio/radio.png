@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<!-- saved from url=(0032)https://showdemo.cloud/profile/# -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>My Profile | Your Name</title>
+    <link rel="shortcut icon" href="https://showdemo.cloud/profile/assets/images/fav.png" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&amp;display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="https://showdemo.cloud/profile/assets/images/fav.jpg">
+    <link rel="stylesheet" href="./radio_files/bootstrap.min.css">
+    <link rel="stylesheet" href="./radio_files/all.min.css">
+    <link rel="stylesheet" href="./radio_files/animate.css">
+    <link rel="stylesheet" href="./radio_files/owl.carousel.min.css">
+    <link rel="stylesheet" href="./radio_files/owl.theme.default.css">
+    <link rel="stylesheet" type="text/css" href="./radio_files/style.css">
+  <script type="text/javascript">
+    window.hasMobileFirstExtension = true;</script></head>
+
+  <body>
+    <!-- ######################### Header Starts Here #################### -->
+
+    <!--########################### Header Starts Here ###################### -->
+    <div class="home-screen container-fluid">
+      <div class="home-cover">
+        <div id="menu-jk" class="header scroll-to-fixed-fixed" style="z-index: 1000; position: fixed; top: 0px; margin-left: 0px; width: 1519.2px; left: 0px;">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-3 logo">
+                <img class="logo-wt" src="./radio_files/logo.png" alt="">
+                <img class="logo-gry" src="./radio_files/logo-gray.png" alt="">
+
+                <a data-toggle="collapse" data-target="#menu" href="https://showdemo.cloud/profile/#menu"><i class="fas d-block d-md-none small-menu fa-bars"></i></a>
+              </div>
+              <div id="menu" class="col-md-9 d-none d-md-block">
+                <ul>
+                  <li><a href="https://showdemo.cloud/profile/#">Home</a></li>
+                  <li><a href="https://showdemo.cloud/profile/#about_us">About Us</a></li>
+                  <li><a href="https://showdemo.cloud/profile/#services">Services</a></li>
+                  <li><a href="https://showdemo.cloud/profile/#gallery">Works</a></li>
+                  <li><a href="https://showdemo.cloud/profile/#">Clients</a></li>
+                  <li><a href="https://showdemo.cloud/profile/#blog">News</a></li>
+                  <li><a href="https://showdemo.cloud/profile/#cntact_ud">Contact_us</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row home-detail">
+            <div class="col-md-7 mx-auto homexp">
+              <h5>Hello I'm</h5>
+              <h2>Your Name</h2>
+
+              <p>
+                Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam
+                nonumy eirmod tempor invidunt ut labore et dolore magna
+                aliquyam.
+              </p>
+
+              <div class="texda">
+                <a href="https://showdemo.cloud/profile/">Download CV</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ######################### About Us Starts Here #################### -->
+
+    <div id="about_us" class="about-sestion container-fluid">
+      <div class="container">
+        <div class="session-title row">
+          <h2>About Me</h2>
+          <p>The new common language will be more simple and regular than.</p>
+        </div>
+        <div class="about-row row">
+          <div class="col-md-5">
+            <img src="./radio_files/about.jpg" alt="">
+          </div>
+          <div class="col-md-7">
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed
+              faucibus mauris, sed porta tellus. Maecenas sit amet sapien
+              mattis, mattis nisi facilisis, dapibus tortor. Morbi non tincidunt
+              lorem. Mauris vehicula diam eu justo tincidunt auctor. Duis
+              euismod non turpis quis varius. Aliquam pulvinar nulla tortor,
+              vitae sollicitudin mauris aliquam sit amet. Vestibulum a dignissim
+              ipsum. Nam egestas, tellus quis vestibulum porttitor, leo elit
+              lacinia nisl, id imperdiet neque dui at mauris
+            </p>
+            <p>
+              Quisque sagittis sem et ligula viverra, sed efficitur odio
+              malesuada. Vivamus vitae justo sapien. Quisque quis turpis dapibus
+              sapien placerat cursus. Integer rhoncus lacus non elit fermentum
+              laoreet. Phasellus pretium scelerisque tellus, non tempus ipsum
+              commodo a. Integer in neque massa. Cras ipsum sapien, aliquet in
+              turpis eu, varius dapibus diam. Donec posuere accumsan sagittis.
+              Vivamus pretium egestas dui ut bibendum. Donec quis viverra mi,
+              convallis vehicula neque. tellus. Maecenas sit amet sapien mattis,
+              mattis nisi facilisis, dapibus tortor. Morbi non tincidunt lorem.
+              Mauris vehicula diam eu justo tincidunt auctor. Duis euismod non
+              turpis quis varius. Aliquam pulvinar nulla tortor, vitae
+              sollicitudin mauris aliquam sit amet. Vestibulum a dignissim
+              ipsum. Nam egestas, tellus quis vestibulum porttitor, leo elit
+              lacinia nisl, id imperdiet neque dui at mauris
+            </p>
+
+            <button class="btn btn-success">Hire Me Now</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!--*************** My Services Starts Here ***************-->
+    <section id="services" class="features container-fluid">
+      <div class="container">
+        <div class="row session-title">
+          <h2>My Services</h2>
+          <p>
+            There are many variations of passages of Lorem Ipsum available, but
+            the majority have suffered
+          </p>
+        </div>
+        <div class="row feature-row">
+          <div class="col-md-4">
+            <div class="feature-col">
+              <i class="far fa-newspaper"></i>
+              <h4>Fully Transparent</h4>
+              <p>
+                Accurate information of work. Visualization achieved through the
+                board.
+              </p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="feature-col">
+              <i class="fas fa-chart-bar"></i>
+              <h4>Continuous Improvement</h4>
+              <p>
+                Accurate information of work. Visualization achieved through the
+                board.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="feature-col">
+              <i class="far fa-window-restore"></i>
+              <h4>Fully Responsive</h4>
+              <p>
+                Accurate information of work. Visualization achieved through the
+                board.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="feature-col">
+              <i class="fas fa-cloud"></i>
+              <h4>Cloud Based</h4>
+              <p>
+                Accurate information of work. Visualization achieved through the
+                board.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="feature-col">
+              <i class="far fa-thumbs-up"></i>
+              <h4>Easy to Use</h4>
+              <p>
+                Accurate information of work. Visualization achieved through the
+                board.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="feature-col">
+              <i class="far fa-life-ring"></i>
+              <h4>24 x 7 Support</h4>
+              <p>
+                Accurate information of work. Visualization achieved through the
+                board.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    &lt;
+    <div id="blog" class="container-fluid blog">
+      <div class="container">
+        <div class="row session-title">
+          <h2>Our Blog</h2>
+          <p>
+            There are many variations of passages of Lorem Ipsum available, but
+            the majority have suffered
+          </p>
+        </div>
+        <div class="blog-row row">
+          <div class="col-lg-4 col-md-6 col-sm-6">
+            <div class="blog-col">
+              <img src="./radio_files/d1.jpg" alt="">
+              <span>August 9, 2019</span>
+              <h4>Orci varius consectetur adipiscing natoque penatibus</h4>
+              <p>
+                Orci varius natoque penatibus et magnis dis parturient montes,
+                nascetur ridiculus mus. Praesent accumsan, leo in venenatis
+                dictum,
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-6">
+            <div class="blog-col">
+              <img src="./radio_files/d2.jpg" alt="">
+              <span>August 9, 2019</span>
+              <h4>Orci varius consectetur adipiscing natoque penatibus</h4>
+              <p>
+                Orci varius natoque penatibus et magnis dis parturient montes,
+                nascetur ridiculus mus. Praesent accumsan, leo in venenatis
+                dictum,
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-6">
+            <div class="blog-col">
+              <img src="./radio_files/d3.jpg" alt="">
+              <span>August 9, 2019</span>
+              <h4>Orci varius consectetur adipiscing natoque penatibus</h4>
+              <p>
+                Orci varius natoque penatibus et magnis dis parturient montes,
+                nascetur ridiculus mus. Praesent accumsan, leo in venenatis
+                dictum,
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ######## Location End ####### -->
+
+    <!--  ************************* Contact Us Starts Here ************************** -->
+
+    <section id="cntact_ud" class="contact-us row">
+      <div class="container">
+        <div class="row session-title">
+          <h2>CONTACT US</h2>
+          <p>
+            Let's discuss how we can help you get started <br>
+            You can reach us at
+          </p>
+        </div>
+        <div class="row">
+          <div class="col-sm-4">
+            <div class="contat-det">
+              <i class="fas fa-map-marker-alt"></i>
+              <br>
+              <p>
+                2nd Floor, Ashock Chambers,<br>
+                Roos Street, California
+              </p>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="contat-det">
+              <i class="fas fa-phone"></i>
+              <br>
+              <p>
+                0564 6786 <br>
+                +91 78556 42158, +91 86754 255552 <br>
+              </p>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="contat-det">
+              <i class="fas fa-envelope"></i>
+              <br>
+              <p>helpworkingspace@gmail.com</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ######## Contact Us End ####### -->
+
+    <!--  ************************* Copyright Starts Here ************************** -->
+    <div class="copy row">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-8">
+            <p>
+              Copyright © 2018 Lifeart Group Design &amp; Developed by SmartEye
+              Technologies
+            </p>
+          </div>
+          <div class="col-sm-4">
+            <ul class="foot-social">
+              <li><i class="fab fa-facebook-f"></i></li>
+              <li><i class="fab fa-twitter"></i></li>
+              <li><i class="fab fa-pinterest-p"></i></li>
+              <li><i class="fab fa-google-plus-g"></i></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ######## Copyright End ####### -->
+
+    <!-- ######################### Footer Starts Here #################### -->
+  
+
+  <script src="./radio_files/jquery-3.2.1.min.js.download"></script>
+  <script src="./radio_files/popper.min.js.download"></script>
+  <script src="./radio_files/bootstrap.min.js.download"></script>
+  <script src="./radio_files/jquery-scrolltofixed-min.js.download"></script>
+  <script src="./radio_files/owl.carousel.min.js.download"></script>
+  <script src="./radio_files/script.js.download"></script>
+
+</body></html>
